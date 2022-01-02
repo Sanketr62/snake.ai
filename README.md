@@ -1,3 +1,3 @@
-#Snanke.ai
+#Snake.ai
 
 Classic Snake game remastered with Artificial Intelligence.
